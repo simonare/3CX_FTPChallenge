@@ -191,3 +191,8 @@ public class ThreadSafeSingleton
     }
 }
 ```
+
+
+# Question 10
+
+Please see the attached solution. Please use `dotnet run ` to run application
